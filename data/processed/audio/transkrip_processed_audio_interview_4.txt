@@ -1,0 +1,12 @@
+[00:00.000 --> 00:06.000]  Explain how you to implement dropout in, oh okay dropout in TensorFlow model and the
+[00:06.000 --> 00:16.800]  effect test on training, previously I also have implement the dropout layer, yeah also
+[00:16.800 --> 00:25.800]  in the project submission within this certifications and we can just add the dropout layer for
+[00:25.800 --> 00:37.120]  example if I'm not mistaken it's I have used this dropout layer in the one that the case
+[00:37.120 --> 00:48.520]  is image classification, yeah German traffic something if I'm not wrong. I've used this
+[00:48.520 --> 00:59.800]  dropout layer in not in the last in the middle of the layer so there's a flat layer right
+[00:59.800 --> 01:06.920]  not flattened on the conventional layer and the flattened layer and I use that dropout layer
+[01:06.920 --> 01:20.720]  which is I use with the rate of 0.2 or 0.5 if I'm not wrong and then the dense layer and
+[01:20.720 --> 01:32.160]  the last the output layer right the effect is it will really helps to improve our accuracy and
+[01:32.160 --> 01:41.960]  lower our validation loss by turning off some of the previous layer yeah for example like we
+[01:41.960 --> 01:52.200]  have dense layer 64 and the next layer we implement the dropout layer with the rate of 0.5 and it will
+[01:52.200 --> 01:59.120]  turn off randomly each epoch for of the previous dense layer
