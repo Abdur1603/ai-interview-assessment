@@ -1,0 +1,14 @@
+Wait, what is this?
+Describe a complex tensor form model you have built and the steps you took to ensure its
+accuracy and efficiency.
+Complex tensor form model you have built and steps you took to ensure its accuracy.
+Okay, I will take one of my previous project that I use.
+Yeah, I also use Keras tensor form model.
+It is about a shell that this is prediction, yeah, yeah, this is also I use the research
+project for my undergraduate thesis, yeah, for my script C and I use this model.
+It's quite challenging even though it's achieved high accuracy with some dense layer, yeah,
+with some throughout layer and trial and error also with the callback function, yeah,
+with the neurons but the problem is the dataset is not balanced, yeah.
+So it has the invalid class datasets, yeah, and the process I use is just to use the technique
+called SMOPE and synthetic over sampling technique with edited nearest neighbor, yeah, which is
+basically just over sampling and under sampling the datasets, yeah, it helps with the accuracy.
