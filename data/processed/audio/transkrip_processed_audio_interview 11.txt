@@ -1,0 +1,21 @@
+(0:00) Hello, good morning, please come in.
+(0:05) Good morning, ma'am. Thank you.
+(0:09) Please sit down. 
+(0:11) Thank you. 
+(0:14) What's your name?
+(0:16) My name is Tom White.
+(0:19) Nice to meet you, Tom.
+(0:21) Nice to meet you, too. 
+(0:24) Tell me about yourself.
+(0:27) I am 25 years old. 
+(0:29) I live in Rivertown.
+(0:32) I finished college last year.
+(0:35) I love working with people. 
+(0:39) Why do you want this job?
+(0:41) I want to learn more.
+(0:44) I want to grow.
+(0:46) I like your school.
+(0:48) I want to teach here.
+(0:51) That's good.Do you have experience? 
+(0:55) Yes.
+(0:56) I worked in a school for one year.
