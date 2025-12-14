@@ -1,8 +1,0 @@
-(0:00) Can you describe your experience with transfer learning and TensorFlow? How do you benefit from the projects?
-(0:08) About transfer learning, we use existing trained models from TensorFlow, for example, like VGG-16, VGG-19, right?
-(0:22) Especially for some cases that we need to use deep learning using Keras applications, for example, like image classification, 
-(0:37) we can use transfer learning models, which is already a trained model with exceptionally high accuracy, high performance.
-(0:53) Even though it's trained with different datasets, but it really helps to improve our model performance, model accuracy, model loss.
-(1:12) For example, like MobileNet, VGG-19, VGG-16, EfficientNet, it will help to improve our models comparing to the one if we use a traditional CNN model.
-(1:32) CNN model with the convolutional 2D, max pooling, and it's quite good actually to use transfer learning. 
-(1:47) It really helps with our model performance, to improve our model performance.

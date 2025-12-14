@@ -1,0 +1,17 @@
+# Folder Model (Terlalu besar untuk GitHub)
+models/
+
+# Folder Cache & Temp
+__pycache__/
+temp/
+*.pyc
+
+# File Media Test
+*.mp4
+*.wav
+*.mkv
+*.mp3
+
+# Konfigurasi Rahasia
+.env
+.streamlit/secrets.toml

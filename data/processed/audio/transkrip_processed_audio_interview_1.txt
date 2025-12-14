@@ -1,8 +1,0 @@
-(0:00) Can you share any specific challenges you face while working on certification and how you overcome them?
-(0:07) Ah, okay. Actually, for the challenges, there are some challenges when I took the certifications, 
-(0:20) especially for the projects I mentioned that I already working with it.
-(0:28) The first one is actually to meet the specific accuracy or validation loss for the evaluation matrix.
-(0:46) And yeah, actually, that's just need to take some trial and error with different architecture.
-(0:56) For example, we can try to add more layer, more neurons, changes the neurons, or even I also apply the dropout layer.
-(1:12) So, yeah, it really helps with the validation loss to become more lower, right? 
-(1:22) And yeah, I think that's one of the biggest challenges that I have while working on these certifications.

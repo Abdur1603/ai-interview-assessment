@@ -1,0 +1,9 @@
+streamlit
+openai
+faster-whisper
+transformers
+librosa
+numpy
+pandas
+nltk
+soundfile
