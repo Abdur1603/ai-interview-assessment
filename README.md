@@ -59,17 +59,16 @@ pip install -r requirements.txt
 
 ### 5. Konfigurasi API Key (Environment)
 1. Aplikasi ini menggunakan Groq Cloud API untuk akses model LLM dan Whisper.
-2. Buka folder .streamlit/ di dalam proyek.
-3. Anda akan melihat file bernama secrets.toml.example.
-4. Ubah nama file tersebut menjadi secrets.toml (hilangkan .example).
-5. Buka file secrets.toml dengan text editor dan masukkan API Key Groq Anda:
+2. Buat folder .streamlit/
+3. Buka folder .streamlit/ di dalam proyek.
+4. Buat file bernama secrets.toml
+6. Buka file secrets.toml dengan text editor dan masukkan API Key Groq Anda:
 ```bash
 # .streamlit/secrets.toml
 GROQ_API_KEYS = [
     "gsk_masukkan_api_key_anda_disini_xxxxxxxxxxxxx"
 ]
 ```
-
 ### Cara Menjalankan Aplikasi
 Setelah semua konfigurasi selesai, jalankan perintah berikut di terminal (pastikan virtual environment aktif):
 ```bash
@@ -77,9 +76,11 @@ streamlit run app.py
 ```
 Aplikasi akan otomatis terbuka di browser Anda pada alamat: http://localhost:8501.
 
+## Atau dapat menggunakan link berikut ini: https://review-capstone.streamlit.app/. 
+
 Langkah Penggunaan:
 1. Pilih Soal: Pilih nomor pertanyaan (1-5) pada dropdown menu.
 2. Upload: Unggah file video (.mp4, .mkv) atau audio (.wav) jawaban kandidat.
-3. Analisis: Klik tombol biru "🚀 Analysis Video".
+3. Analisis: Klik tombol merah "Analysis Video".
 4. Hasil: Tunggu hingga proses (Ekstraksi -> Transkripsi -> AI Reasoning) selesai 100%. Hasil skor dan analisis akan muncul.
 5. Laporan Akhir: Setelah menilai ke-5 soal, klik tombol "Generate Final Report" di bagian bawah untuk mengunduh hasil dalam format JSON.
