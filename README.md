@@ -76,7 +76,8 @@ streamlit run app.py
 ```
 Aplikasi akan otomatis terbuka di browser Anda pada alamat: http://localhost:8501.
 
-## Atau dapat menggunakan link berikut ini: https://review-capstone.streamlit.app/. 
+## Atau dapat menggunakan link berikut ini: 
+### https://review-capstone.streamlit.app/. 
 
 Langkah Penggunaan:
 1. Pilih Soal: Pilih nomor pertanyaan (1-5) pada dropdown menu.
